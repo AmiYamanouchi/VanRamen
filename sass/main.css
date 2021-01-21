@@ -411,7 +411,7 @@ footer .fab {
     width: 2em;
     height: 2em;
     margin-left: 1em;
-    background: url("VanRamen/img/ramen3.png") no-repeat;
+    background: url("/VanRamen/img/ramen3.png") no-repeat;
     background-size: contain;
   }
   .contact .contact-form {
