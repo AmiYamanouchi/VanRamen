@@ -158,11 +158,12 @@ header {
             border: 1px solid black;
             border-radius: 5px;
             text-decoration: none;
-            margin: 9px 0 0 10px;
+            margin: 9px 0 10px 10px;
             padding: 3px;
+            font-family: 'Anton', sans-serif;
 
             &:hover{
-                background-color: rgb(14, 13, 13);
+                background-color: rgb(214, 41, 41);
                 color: white;
             }
 

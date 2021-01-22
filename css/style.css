@@ -97,10 +97,11 @@ header img {
       border: 1px solid black;
       border-radius: 5px;
       text-decoration: none;
-      margin: 9px 0 0 10px;
-      padding: 3px; }
+      margin: 9px 0 10px 10px;
+      padding: 3px;
+      font-family: 'Anton', sans-serif; }
       .restaurants .ramen a:hover {
-        background-color: #0e0d0d;
+        background-color: #d62929;
         color: white; }
     .restaurants .ramen .rName {
       display: flex;
