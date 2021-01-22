@@ -14,6 +14,7 @@ body {
 header h1, header h3 {
   text-align: right;
   margin: 40px 50px 20px 0;
+  font-family: 'Coda Caption', sans-serif;
 }
 
 header img {
@@ -43,6 +44,7 @@ header img {
   color: white;
   font-weight: bold;
   font-size: larger;
+  font-family: 'Coda Caption', sans-serif;
 }
 
 .nav-bar a:hover {
@@ -78,6 +80,7 @@ header img {
 .about .about-van .text h2, .about .about-ramen .text h2 {
   text-align: center;
   margin: 10px;
+  font-family: 'Coda Caption', sans-serif;
 }
 
 .about .about-van .text p, .about .about-ramen .text p {
@@ -104,6 +107,7 @@ header img {
 
 .restaurants .text h1 {
   margin: 10px;
+  font-family: 'Coda Caption', sans-serif;
 }
 
 .restaurants .ramen {
@@ -151,6 +155,7 @@ header img {
 .restaurants .ramen .rName h3 {
   font-size: larger;
   margin: 0 15px;
+  font-family: 'Coda Caption', sans-serif;
 }
 
 .coupons {
@@ -161,6 +166,7 @@ header img {
 
 .coupons h1 {
   text-align: center;
+  font-family: 'Coda Caption', sans-serif;
 }
 
 .coupons .container {
@@ -245,6 +251,10 @@ header img {
 .contact {
   margin: 5em 3em;
   text-align: center;
+}
+
+.contact h1 {
+  font-family: 'Coda Caption', sans-serif;
 }
 
 .contact .contact-form {

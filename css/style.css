@@ -11,7 +11,8 @@ body {
 
 header h1, header h3 {
   text-align: right;
-  margin: 40px 50px 20px 0; }
+  margin: 40px 50px 20px 0;
+  font-family: 'Coda Caption', sans-serif; }
 
 header img {
   display: block;
@@ -32,7 +33,8 @@ header img {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    font-size: larger; }
+    font-size: larger;
+    font-family: 'Coda Caption', sans-serif; }
     .nav-bar a:hover {
       color: #fde400; }
 
@@ -54,7 +56,8 @@ header img {
       margin: 1em; }
       .about .about-van .text h2, .about .about-ramen .text h2 {
         text-align: center;
-        margin: 10px; }
+        margin: 10px;
+        font-family: 'Coda Caption', sans-serif; }
       .about .about-van .text p, .about .about-ramen .text p {
         margin: 10px; }
 
@@ -71,7 +74,8 @@ header img {
     text-align: center;
     padding: 3em 3em; }
     .restaurants .text h1 {
-      margin: 10px; }
+      margin: 10px;
+      font-family: 'Coda Caption', sans-serif; }
   .restaurants .ramen {
     background-color: rgba(255, 255, 255, 0.5);
     margin: 8% 3% 0 3%;
@@ -104,14 +108,16 @@ header img {
       margin: 10px; }
       .restaurants .ramen .rName h3 {
         font-size: larger;
-        margin: 0 15px; }
+        margin: 0 15px;
+        font-family: 'Coda Caption', sans-serif; }
 
 .coupons {
   background-color: #cfcfcf;
   padding: 5em 0;
   text-align: right; }
   .coupons h1 {
-    text-align: center; }
+    text-align: center;
+    font-family: 'Coda Caption', sans-serif; }
   .coupons .container {
     max-width: 90%;
     margin: 0 auto; }
@@ -173,6 +179,8 @@ header img {
 .contact {
   margin: 5em 3em;
   text-align: center; }
+  .contact h1 {
+    font-family: 'Coda Caption', sans-serif; }
   .contact .contact-form {
     display: flex;
     margin-top: 3em; }

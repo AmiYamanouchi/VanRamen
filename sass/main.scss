@@ -21,6 +21,7 @@ header {
     h1, h3{
         text-align: right;
         margin: 40px 50px 20px 0;
+        font-family: 'Coda Caption', sans-serif;
         
     }
 
@@ -54,6 +55,7 @@ header {
         color:rgb(255, 255, 255);
         font-weight: bold;
         font-size: larger;
+        font-family: 'Coda Caption', sans-serif;
 
         &:hover{
             color: rgb(253, 228, 0);
@@ -92,6 +94,7 @@ header {
             h2{
                 text-align: center;
                 margin: 10px;
+                font-family: 'Coda Caption', sans-serif;
             }
             p{
                 margin: 10px;
@@ -122,6 +125,7 @@ header {
 
         h1{
             margin: 10px;
+            font-family: 'Coda Caption', sans-serif;
         }
     }
 
@@ -141,6 +145,7 @@ header {
         
         p{
             margin: 10px;
+            
         }
 
         a{
@@ -172,6 +177,7 @@ header {
             h3{
                 font-size: larger;
                 margin: 0 15px;
+                font-family: 'Coda Caption', sans-serif;
             }
         }
         
@@ -185,6 +191,7 @@ header {
 
     h1{
         text-align: center;
+        font-family: 'Coda Caption', sans-serif;
     }
     
     .container{
@@ -272,6 +279,10 @@ header {
 .contact{
     margin: 5em 3em;
     text-align: center;
+
+    h1{
+        font-family: 'Coda Caption', sans-serif;
+    }
 
     .contact-form{
         display: flex;
